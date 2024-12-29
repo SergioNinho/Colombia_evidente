@@ -5,9 +5,9 @@ function coneet()
 {
 
 	$server="localhost";
-	$user="u268740945_tes_elec_2023";
-	$pass="Tes:elec:2023;";
-	$bd="u268740945_colombia_evide";
+	$user="user";
+	$pass="password";
+	$bd="name_db";
 
 	$conectar= mysqli_connect("$server","$user","$pass","$bd");
 
